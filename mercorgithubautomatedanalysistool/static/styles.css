@@ -1,0 +1,103 @@
+/* styles.css */
+
+/* Body styles */
+/* styles.css */
+
+/* Body Styles */
+.home-page {
+    background-color: #f0f0f0;
+  }
+  
+  /* Container Styles */
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Card Styles */
+  .card {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .card-header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .card-body {
+    margin-bottom: 20px;
+  }
+  
+  .card-text {
+    margin: 0;
+  }
+  
+  /* Form Styles */
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+  
+  /* Button Styles */
+  .button {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #218838;
+  }
+  
+  
+  /* Result styles */
+  .result-container {
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .result-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .result-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  

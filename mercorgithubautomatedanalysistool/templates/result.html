@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        h2 {
+            margin-top: 30px;
+        }
+        
+        .repository-link {
+            display: block;
+            margin-bottom: 10px;
+            color: #0366d6;
+            text-decoration: none;
+        }
+        
+        .justification {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Result</h1>
+    <h2>Most Complex Repository:</h2>
+    {% for repository in repositories_data %}
+        {% if repository.url %}
+            <a href="{{ repository.url }}" class="repository-link">{{ repository.name }}</a>
+        {% else %}
+            <span>{{ repository.name }}</span>
+        {% endif %}
+    {% endfor %}
+    <h2>Justification:</h2>
+    <p class="justification">{{ justification }}</p>
+</body>
+</html>
