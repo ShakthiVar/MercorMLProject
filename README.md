@@ -51,5 +51,17 @@ python main.py
 
 4.Open your web browser and go to http://localhost:5000 to access the application.
 
+# Usage
+
+1.Open the web application in your browser.
+
+2.Enter a valid GitHub user URL in the provided input field and click the "Analyze" button.
+
+3.The application will fetch the repositories from the user's profile, analyze their complexity, and display the result.
+
+4.The most complex repository will be shown with a link to its GitHub page, and a justification for the selection will be provided.
+
+# Feel free to modify the content and structure of the README.md file to fit your project's requirements and add any additional sections or information as needed!!
+
 
   
