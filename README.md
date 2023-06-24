@@ -9,7 +9,7 @@ The GitHub Repository Analyzer is a web application that analyzes the technical 
 - Identifies the most complex repository
 - Generates a justification for the selection using a language model
 
-- ## Technologies Used
+## Technologies Used
 
 - Python
 - Flask (web framework)
@@ -17,7 +17,7 @@ The GitHub Repository Analyzer is a web application that analyzes the technical 
 - PyTorch (deep learning library)
 - Hugging Face Transformers (NLP library)
 
-- ## Installation
+## Installation
 
 1. Clone the repository:
    
@@ -60,6 +60,8 @@ python main.py
 3.The application will fetch the repositories from the user's profile, analyze their complexity, and display the result.
 
 4.The most complex repository will be shown with a link to its GitHub page, and a justification for the selection will be provided.
+
+
 
 
 Feel free to modify the content and structure of the README.md file to fit your project's requirements and add any additional sections or information as needed!!
