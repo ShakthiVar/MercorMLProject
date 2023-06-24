@@ -20,9 +20,10 @@ The GitHub Repository Analyzer is a web application that analyzes the technical 
 - ## Installation
 
 1. Clone the repository:
-
+   ```
    git clone https://github.com/ShakthiVar/MercorMLProject.git
    cd MercorMLProject
+```
 
 ## Implementation Steps
 
