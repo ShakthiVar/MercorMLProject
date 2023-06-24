@@ -21,36 +21,32 @@ The GitHub Repository Analyzer is a web application that analyzes the technical 
 
 1. Clone the repository:
    
-   ```
-   git clone https://github.com/ShakthiVar/MercorMLProject.git
-   cd MercorMLProject
-   
 ```
+git clone https://github.com/ShakthiVar/MercorMLProject.git
+cd MercorMLProject 
+```   
 
 ## Implementation Steps
 
 1.Create a virtual environment and activate it:
 
+
 ```
 python -m venv venv
 
 venv\Scripts\activate 
-
 ```
 
 2.Install the required dependencies:
 
 ```
 pip install -r requirements.txt
-
 ```
 
 3.Run the application:
 
 ```
-
 python main.py
-
 ```
 
 4.Open your web browser and go to http://localhost:5000 to access the application.
