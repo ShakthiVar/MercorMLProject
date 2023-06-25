@@ -67,6 +67,9 @@ python main.py
 https://github.com/ShakthiVar/MercorMLProject/assets/92375087/a998d5e4-a046-4031-ae34-32783ccc4991
 
 
+Youtube Link for Detailed Description:https://youtu.be/BAbTTYIExhM
+
+
 
 
 Feel free to modify the content and structure of the README.md file to fit your project's requirements and add any additional sections or information as needed!!
